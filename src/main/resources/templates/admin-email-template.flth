@@ -1,0 +1,9 @@
+<html>
+<head></head>
+<body>
+    <p>Dear <b> ${receiverName} </b></p>
+    <p>I am sending you this email to inform you about <b>${topic}</b></p>
+    <p> <b> ${description} </b></p>
+    <p>The Technical University of Cluj-Napoca wishes you a pleasant day dear <b>${receiverName}</b></p>
+</body>
+</html>

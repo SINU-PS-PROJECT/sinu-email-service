@@ -1,0 +1,12 @@
+<html>
+<head></head>
+<body>
+    <p>Dear <b> ${studentName} </b></p>
+    <p>I am sending you this email to inform you that the payment you made to the <b>Technical University of Cluj-Napoca was successful.</b></p>
+    <p>Fee Name :  <b> ${feeName} </b> </p>
+    <p>Amount :  <b> ${feeAmount} </b> </p>
+    <p>Date of Payment :  <b> ${dateOfPayment} </b> </p>
+    <p>Dear Technical University of Cluj-Napoca </p>
+    <p>Thanks</p>
+</body>
+</html>
